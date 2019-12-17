@@ -1,0 +1,15 @@
+AddAstronaut Geodesist Jake
+AddPlanet Mars Carbon
+ExplorePlanet Mars
+Report
+AddAstronaut Biologist Jack
+AddAstronaut Meteorologist Liam
+AddAstronaut Biologist Michael
+AddAstronaut Meteorologist David
+AddAstronaut Meteorologist Thomas
+AddPlanet Jupiter Titanium Quartz Aluminium Azurnium Cobalt Copper Iron Lead Lithium Plutonium Mercury Nickel Magnesium Diamond Gold Carbon
+RetireAstronaut David
+RetireAstronaut William
+ExplorePlanet Jupiter
+Report
+Exit
